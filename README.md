@@ -1,3 +1,8 @@
+#NOTE
+Unit tests for part IV (conversions_refactored) can be found in conversions_refactored_tests.py
+
+
+
 #Week 6 Assignment ­ Testing and Refactoring
 ##Overview
 This week, we focused on how to build tests for our software and how to refactor our code to be simpler or

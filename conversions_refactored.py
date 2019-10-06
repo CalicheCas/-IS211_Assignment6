@@ -4,7 +4,7 @@ def convertThat(self, fromUnit, toUnit, value):
     # Distance Conversions
     while fromUnit.lower() == 'miles':
         if toUnit.lower() == 'meters':
-            return round(value * 1609.34, 2)
+            return round(value * 1609.344, 2)
         elif toUnit.lower() == 'yards':
             return round(value * 1760, 2)
         elif toUnit.lower() == 'miles':
